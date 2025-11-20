@@ -78,7 +78,7 @@ Sharpening my **Data Analysis** skills — advanced Python, statistics, BI dashb
 ## 📫 Contact Me
 - **Email:** mumbie166@gmail.com  
 - **Portfolio:** Coming soon
-- **X (Twitter):** <a href="https://x.com/YOUR_USERNAME" target="_blank">
+- **X (Twitter):** <a href="(https://x.com/tulip_astratide)" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
